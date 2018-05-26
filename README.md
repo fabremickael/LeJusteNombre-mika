@@ -1,0 +1,6 @@
+# LeJusteNombre-mika
+
+je test ce code il n'y a aucne erreur dans Xcode mais le simulateur s'arrête et ils me montre des BreakPoint etc ...
+Je ne sais pas ce qu'il se passe ...
+
+Un coup de main SVP !!!
